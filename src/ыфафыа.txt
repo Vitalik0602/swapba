@@ -1,2 +1,0 @@
-https://github.com/Vitalik0602/Swapix.git
-git remote add origin https://github.com/Vitalik0602/Swapix.git
